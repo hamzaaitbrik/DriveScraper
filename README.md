@@ -1,7 +1,7 @@
 # DriveScraper
 DriveScraper is a tool that allows you to scrape data from a newly added hard drive in the background.
 
-Prerequisites: Python preinstalled.
+Prerequisites: Python2 or Python3(recommended) preinstalled, shutil library preinstalled.
 
 How to run:
 On Linux:
