@@ -1,5 +1,6 @@
 # DriveScraper
 DriveScraper is a tool that allows you to scrape data from a newly added hard drive in the background.
+How it works: When you run the script, it keeps on scanning your computers ports in a loop of 1/2 seconds for newly added drives. When a new drive is detected it immediately copies data from it and pastes it where you've chosen in the instructions.
 
 Prerequisites: Python2 or Python3(recommended) preinstalled, shutil library preinstalled.
 
