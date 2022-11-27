@@ -7,7 +7,7 @@ import shutil
 
 
 print('----------------------------------------------- DriveScraper')
-print('----------------------------------------------- Discord: Ozym1ndias#3112\n')
+print('----------------------------------------------- Discord: OzymandiasTheGreat#3112\n')
 
 ##################################### VARIABLE DEFINITION #####################################
 # wopl stands for windows old partitions list                                                 #
